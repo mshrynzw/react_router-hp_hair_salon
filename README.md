@@ -4,6 +4,8 @@
 美容室サイトを想定したフロントエンド実装です。  
 トップページ、メニュー、ニュース、スタッフ、ブログ、お問い合わせページを含む、複数ページ構成のサンプルサイトになっています。
 
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/b8399cf3-6f72-42e8-9506-5bee87bea817" />
+
 ## 主な特徴
 
 - `react-router` を使った SPA ルーティング構成
