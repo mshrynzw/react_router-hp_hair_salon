@@ -70,7 +70,7 @@ export function Home() {
 
   return (
     <div>
-      <section className="relative h-[500px] flex items-center justify-center bg-gradient-to-r from-gray-900 to-gray-700 text-white">
+      {/* <section className="relative h-[500px] flex items-center justify-center bg-gradient-to-r from-gray-900 to-gray-700 text-white">
         <div className="text-center px-4">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
             Beauty Salon
@@ -124,18 +124,18 @@ export function Home() {
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section id="gallery" className="bg-gray-50 py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
+          {/* <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
               スタイルギャラリー
             </h2>
             <p className="text-gray-600">
               私たちの技術と芸術性をご覧ください
             </p>
-          </div>
+          </div> */}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {galleryImages.map((image, index) => (
